@@ -1,0 +1,122 @@
+body, html {
+    height: 100%;
+    
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    letter-spacing: 3px;
+}
+
+h5 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+h6 {
+    float: left;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+li {
+    list-style: none;
+}
+
+.span {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 60px;
+    color: #339beb;
+}
+
+.Me {
+    color:#339beb;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.274) !important;
+    height: 90px;
+}
+
+.navbar.scrolled {
+    background-color: rgba(0, 0, 0, 0.829) !important;
+    height: 90px;
+}
+
+.navbar-nav {
+    font-size: 1.2rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-link {
+    color: rgb(255, 255, 255);
+    margin: 25px;
+}
+
+.nav-link:hover {
+    color: #339beb;
+}
+
+.bg {
+    background-image: url('./images/frontenddeveloper.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+.bgtrans {
+    background-color: rgba(0, 0, 0, 0.637);
+    height: 100%;
+}
+
+.banner {
+    width: 100%;
+    height: 100%;
+    min-height: 100%;
+    position: relative;
+    color: #fff;
+}
+
+.banner-caption {
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    z-index: 2;
+}
+
+.col-md-offset-2 {
+    margin-left: 16.66666667%;
+}
+
+.my-photo {
+    border-radius: 100px;
+}
+
+#about_me_section {
+    height: 450px;
+}
+
+#portfolio_section {
+    height: 450px;
+}
+
+#map {
+    position: relative;
+    overflow: hidden;
+}
+
+#gallery {
+    width: 300px;
+}
+
+
+
+
+
+
+
+
