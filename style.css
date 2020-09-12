@@ -116,10 +116,14 @@ li {
 }
 }
 
-@media (max-width: 767px) {
+@media (min-width: 375) ,(max-width: 767px) {
     body, html {
         height: 100%;
-        
+        overflow-x: hidden;
+    }
+
+    body {
+        position: relative;
     }
     
     p {
